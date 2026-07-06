@@ -38,7 +38,7 @@ AI_Recommendation_System/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI_Recommendation_sys.git
+git clone https://github.com/shivanimaddela17/AI_Recommendation_sys.git
 ```
 
 2. Navigate to the project directory:
